@@ -1,16 +1,21 @@
 ## [Health Data and Statistics Resources Training](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html)
 
-[Vital Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Vital)
+### [Vital Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Vital)
 
-[Incidence/Prevalence](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#I/P)
+1. [Leading causes of death](https://www.cdc.gov/nchs/nvss/mortality/lcwk1.htm) - under mortality >> results >> moratlity tables 
+2. [CDC WONDER](http://wonder.cdc.gov/)
 
-[National Survey Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Natl)
+### [Incidence/Prevalence](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#I/P)
 
-[GIS and Mapping Applications/Data](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#GIS)
+1. [CDC Chronic disease Indicators](https://www.cdc.gov/cdi/)
 
-[California Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Cali)
+### [National Survey Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Natl)
 
-[California County & Local Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#County)
+### [GIS and Mapping Applications/Data](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#GIS)
 
-[More Information & Using PubMed to Find Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#More)
+### [California Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Cali)
+
+### [California County & Local Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#County)
+
+### [More Information & Using PubMed to Find Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#More)
 
