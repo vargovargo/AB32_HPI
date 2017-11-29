@@ -17,13 +17,24 @@
 - or [search questions from mulitple years](https://wwwn.cdc.gov/nchs/nhanes/search/default.aspx)
 2. [BRFSS](http://www.cdc.gov/brfss/)
 - [annual survey data](https://www.cdc.gov/brfss/annual_data/annual_2016.html)
-- 
+- [prevalence and trends data](https://www.cdc.gov/brfss/brfssprevalence/index.html)
+3. [Medicare data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research/MCBS/index.html)
+- [ResDAC](https://www.resdac.org/) will help you process CMS data
 
 ### [GIS and Mapping Applications/Data](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#GIS)
+1. [CDPH NEOPB map viewer](http://gis.cdph.ca.gov/NEOPBGIS/)
+2. [Community Commons - Community Health Needs Assessment Maps and Indicators](https://assessment.communitycommons.org/CHNA/MapGallery.aspx)
+3. [Housing and Transport Affordability Index](https://www.cnt.org/tools/housing-and-transportation-affordability-index)
 
 ### [California Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#Cali)
+1. [Traffic Counts](http://www.dot.ca.gov/trafficops/census/)
+2. [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)
 
 ### [California County & Local Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#County)
+1. [Census quick facts](https://www.census.gov/quickfacts/fact/table/US/PST045216)
+- also check out [Census Reporter](https://censusreporter.org/)
+- and [dataUSA](https://datausa.io/)
+2. [County Health Data Profiles](https://www.cdph.ca.gov/Programs/CHSI/Pages/County-Health-Status-Profiles.aspx) - updated annually
 
 ### [More Information & Using PubMed to Find Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#More)
 
