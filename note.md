@@ -30,11 +30,20 @@
 1. [Traffic Counts](http://www.dot.ca.gov/trafficops/census/)
 2. [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx)
 
+
 ### [California County & Local Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#County)
 1. [Census quick facts](https://www.census.gov/quickfacts/fact/table/US/PST045216)
 - also check out [Census Reporter](https://censusreporter.org/)
 - and [dataUSA](https://datausa.io/)
 2. [County Health Data Profiles](https://www.cdph.ca.gov/Programs/CHSI/Pages/County-Health-Status-Profiles.aspx) - updated annually
+3. [RaceCounts](http://www.racecounts.org/)
 
 ### [More Information & Using PubMed to Find Statistics](http://www.lib.berkeley.edu/PUBL/cdph/cdph_stats.html#More)
-
+1. [summary of resources oh health data](http://guides.lib.berkeley.edu/publichealth/healthstatistics)
+2. [summary of CA agencies](http://guides.lib.berkeley.edu/c.php?g=439302&p=3175722)
+3. [summary of federal agencies](http://guides.lib.berkeley.edu/publichealth/federal)
+4. Selected books available for ordering from the Public Health Library: 
+- [Smart use of state public health data for health disparity assessment (2016)](http://oskicat.berkeley.edu/record=b23386009~S1)
+- [Innovative statistical methods for public health data (2015)](http://oskicat.berkeley.edu/record=b23133752~S1)
+- [Biostatistics and computer-based analysis of health data using R (2016)](http://oskicat.berkeley.edu/record=b23441938~S1)
+- [Data analytics in healthcare research: tools and strategies (2016)](http://oskicat.berkeley.edu/record=b23322344~S1)
